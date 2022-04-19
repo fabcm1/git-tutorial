@@ -2,7 +2,7 @@ testing with another file
 
 this file will have several lines
 A
-B
 C
+B
 D
 E
